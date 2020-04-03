@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-  
 
 #r = read
-#w = 
+#w = write 
 archivo = open('archivo2.txt','r')
 #Muestra los datos desrolijos
 #print(archivo.readlines())

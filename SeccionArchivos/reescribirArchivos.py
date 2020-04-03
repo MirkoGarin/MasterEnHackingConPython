@@ -1,6 +1,6 @@
 #!c:/Python/python.exe
 # -*- coding: utf-8 -*-  
-# a = 
+# a =  append  
 archivo = open("archivo2.txt","a")
 nombre = input("Nombre: ")
 edad = input("Edad: ")
