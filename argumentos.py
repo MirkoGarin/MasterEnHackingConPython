@@ -1,7 +1,7 @@
 #!c:/Python/python.exe
 # -*- coding: utf-8 -*-  
-def saludo(nombreR, edad):
-    print ("Hola {} tienes {}" . format(nombreR,edad))
+def saludo(nombre1, edad1):
+    print ("Hola {} tienes {}" . format(nombre1,edad1))
 
 def main():
     nombre = input("Nombre: ")

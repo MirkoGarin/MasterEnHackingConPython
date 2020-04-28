@@ -7,9 +7,11 @@
 
 def saludo():
     print ("Bienvenido")
-
+    
+    
 def despedida():
     print("Bye")
+    
 
 def main():
      #etiqueta pass indica que un trozo de codigo estara vacio evita errores
